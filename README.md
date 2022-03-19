@@ -24,3 +24,5 @@ For the comparison purpose,
 The Graph version of the algorithms and Tree versions are displayed separately and on each selection the result is displayed on the result board.
 Comparisons are made on various factors like nodes generated, depth at which goal node is present and path cost.
 
+## Installations
+pip install Tkinter
