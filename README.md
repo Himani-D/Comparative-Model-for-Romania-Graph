@@ -1,9 +1,14 @@
 # Comparative-Model-for-Romania-Graph
 This is a comparative model which compares various problem solving search algorithms in Artificial Intelligence specifically on Romania Graph. Various Informed and Uninformed search algorithms are implemented and both Tree search and Graph search is compared. Mainly the algorithms includes 
+
     1.	Breadth First Search (BFS)
+    
     2.	Depth First Search (DFS)
+    
     3.	Depth Limited Search (DLS)
+    
     4.	Iterative Deepening Depth First Search 
+    
     5.	A* Search – Informed Search
     
 ![image](https://user-images.githubusercontent.com/76768104/159119427-3b7029e6-5215-4165-858e-4fe18a2bae71.png)
